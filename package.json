@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "homebridge for me, indirect",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "homebridge": "^0.4.6"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

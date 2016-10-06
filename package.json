@@ -4,14 +4,15 @@
   "description": "homebridge for me, indirect",
   "main": "index.js",
   "dependencies": {
-    "homebridge": "^0.4.6"
+    "foreman": "^2.0.0",
+    "homebridge": "^0.4.6",
     "homebridge-misfit-bolt": "^0.1.4",
     "misfit-bolt-http": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "homebridge": "nf start"
   },
-  "author": "",
+  "author": "André Arko",
   "license": "ISC"
 }

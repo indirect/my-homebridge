@@ -5,6 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "homebridge": "^0.4.6"
+    "homebridge-misfit-bolt": "^0.1.4",
+    "misfit-bolt-http": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {

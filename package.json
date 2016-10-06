@@ -10,6 +10,7 @@
     "misfit-bolt-http": "^1.0.1"
   },
   "devDependencies": {},
+  "repository": "https://github.com/indirect/my-homebridge.git",
   "scripts": {
     "homebridge": "nf start"
   },
